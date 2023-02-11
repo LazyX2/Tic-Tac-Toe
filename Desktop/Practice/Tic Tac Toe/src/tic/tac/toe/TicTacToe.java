@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Ashwini
+ * @author Ashi
  */
 public class TicTacToe {
   static Scanner sc = new Scanner(System.in);
